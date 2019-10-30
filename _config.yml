@@ -1,6 +1,6 @@
 # general configuration
-url: https://sanujarajasinghe.com/v2
-baseurl: https://sanujarajasinghe.com/v2
+url: https://sanujarajasinghe.com/
+baseurl: https://sanujarajasinghe.com/
 
 # compass configuration
 compass:
